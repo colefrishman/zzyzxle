@@ -29,7 +29,7 @@ export const shareStatus = (
       guesses,
       getEmojiTiles(isDarkMode, isHighContrastMode)
     )
-    + "https://zzyzxle.vercel.app/"
+    + "\nhttps://zzyzxle.vercel.app/"
 
   const shareData = { text: textToShare }
 
